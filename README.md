@@ -53,7 +53,6 @@
 Мы должны увидеть список файлов, включая "Human Friends", "PackAnimals.txt" и "Pets.txt".
 <img width="602" alt="Снимок экрана 2023-10-29 в 21 16 43" src="https://github.com/Rena204/FinalWork2/assets/118428234/eb854a9b-a0b1-4a69-86dc-a55fd400b6e0">
 
-
 Работа с директориями в Linux
 -----------------------------
 1.Создание новой директории:
@@ -67,7 +66,6 @@
 >mv "Human Friends" new_directory/
 
 <img width="631" alt="Снимок экрана 2023-10-28 в 15 06 02" src="https://github.com/Rena204/FinalWork2/assets/118428234/6ba86071-956e-498c-9f42-51842ec223d5">
-
 
 Работа с MySQL в Linux
 --
