@@ -37,7 +37,7 @@
 
 >cat HumanFriends.txt
 
-Мы увидем объединенное содержимое файлов "Pets" и "Pack animals".
+Мы увидим объединенное содержимое файлов "Pets" и "Pack animals".
 <img width="601" alt="Снимок экрана 2023-10-29 в 21 15 50" src="https://github.com/Rena204/FinalWork2/assets/118428234/a9b9672b-4702-4a0e-b47d-77feffb4ceed">
 
 4.Переименование файла:
